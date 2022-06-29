@@ -45,9 +45,13 @@ Circular Interpolation
 ![output](./Final%20Program%20Circular.PNG)
 
 Linear Interpolation:
+
+
 ![output](./linear%20interpolation.PNG)
 
 Circular Interpolation:
+
+
 ![output](./circular%20interpolation.PNG)
 
 
